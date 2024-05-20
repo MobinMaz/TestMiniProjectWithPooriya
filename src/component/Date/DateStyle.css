@@ -1,0 +1,17 @@
+.custom-input {
+    border: none;
+    background: transparent url(../../asset//img/calendar.png)  no-repeat;
+    background-size: 32px 32px;
+    background-position: 50% 50%;
+    color: transparent;
+    width: 35px;
+    height: 38px;
+    font-family: serif;
+    outline: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.custom-calender{
+    border-radius: 28px;
+    background: whitesmoke;
+}
